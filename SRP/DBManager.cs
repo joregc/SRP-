@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SRP
 {
-  class Program
+  class DBManager
   {
-    static void Main(string[] args)
+    public void ConnectToDB()
     {
-      
+      Console.WriteLine("connecting to DB...");
     }
   }
 }

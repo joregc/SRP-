@@ -9,14 +9,6 @@ namespace SRP
   class AccountantEmployee : Employee
   {
 
-    public void disposedTrash() {
-      Console.WriteLine("disposing trash...");
-    }
-
-    public void ConnectToDB() {
-      Console.WriteLine("connecting to DB...");
-    }
-
     public void CalculateTaxes() {
       Console.WriteLine("Calculating taxes...");
     }

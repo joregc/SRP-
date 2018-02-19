@@ -9,10 +9,7 @@ namespace SRP
   class Employee
   {
 
-    public void sendToPrinter() {
-      Console.WriteLine("printing...");
-    }
+   
 
-    public void 
   }
 }

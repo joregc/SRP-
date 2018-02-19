@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SRP
 {
-  class Program
+  class Printer
   {
-    static void Main(string[] args)
+    public void sendToPrinter()
     {
-      
+      Console.WriteLine("printing...");
     }
   }
 }
